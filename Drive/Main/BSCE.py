@@ -2,7 +2,7 @@ from tkinter import *
 from os import startfile
 def bsce():
     rtt = Tk()
-    rtt.title("Render BSCE Moment")
+    rtt.title("Render BSCE Agreement")
     rtt.state("zoomed")
     rtt.configure(bg="blue")
     sadface = Label(rtt, text="(:", font=("Arial", 140), bg="blue", fg="white").place(x=10, y=10)
