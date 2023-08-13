@@ -1,0 +1,15 @@
+{
+    "themes": ["dark", "light"],
+    "theme": "dark",
+    "StartAlignDecorations": ["Left", "Right", "Center", "Top Center", "Top Left", "Top Right", "Right side", "Left side"],
+    "StartAlignDecoration": "Left",
+    "DefaultStartAlignDecoration": "Center",
+    "DefaultTheme": "Dark",
+    "Firewall": true,
+    "DefaultOptionFieldFirewall": true,
+    "DefaultOptionFieldRealTimeProtection": false,
+    "RealTimeProtection": true,
+    "Backgrounds": ["Windows", "Beach", "Cliff", "Sea"],
+    "password": "_UNICODE",
+    "defaultEmergencyUsername": "defaultuser0"
+}
